@@ -1,5 +1,12 @@
 from random import choice
-
+sss_head = r"""
+           __
+        _ /  \__
+       /      0 \
+      /_          \
+        \____      \
+             \______\
+"""
 sss_snek = r"""
   ____                  
      / . .\                
